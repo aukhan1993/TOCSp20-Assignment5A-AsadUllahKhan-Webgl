@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll A Ball",
+"productVersion": "1.0",
+"dataUrl": "Roll A Ball Build.data.unityweb",
+"wasmCodeUrl": "Roll A Ball Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll A Ball Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Roll A Ball Build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
